@@ -28,8 +28,8 @@ OWNER = os.environ.get("OWNER", "lucievers")
 DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://daemons:<Rangergamer9>@fileshare.ttffzpj.mongodb.net/?retryWrites=true&w=majority")
 
 # Username CH & Group
-CHANNEL = os.environ.get("CHANNEL", "vvslh_pro")
-GROUP = os.environ.get("GROUP", "vvslh_pro")
+CHANNEL = os.environ.get("CHANNEL", "promoslot100")
+GROUP = os.environ.get("GROUP", "slotgacorterpercaya2023")
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001506938385"))
